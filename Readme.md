@@ -1,4 +1,4 @@
-# Rode clone [live link]()
+# Rode clone [live link](https://myrodeclone.netlify.app/)
 
 ## skills gained from this project
     - I learned to use flexbox and grid
